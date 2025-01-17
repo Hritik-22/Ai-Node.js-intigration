@@ -1,7 +1,7 @@
 ### AI Node.js Integration
 Integration of Gemini AI Model (v1.5) with Node.js
 
-About
+
 Hello, I am Ritik Dubey.
 This project demonstrates the seamless integration of the Gemini AI model (version 1.5) into a Node.js application. The application is designed to support various AI-powered features, including:
 
